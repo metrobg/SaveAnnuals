@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SaveAnnuals": {
+      "commandName": "Project",
+      "commandLineArgs": "A"
+    }
+  }
+}
